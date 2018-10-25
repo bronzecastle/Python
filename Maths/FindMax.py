@@ -1,6 +1,5 @@
 # NguyenU
 
-import math
 def find_max(nums):
     max = 0
     for x in nums:
